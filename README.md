@@ -1,6 +1,6 @@
 Coursework for my first graduate course, ME 392Q Data Analytics in Semiconductor Manufacturing with Dr. Dragan Djurdjanovic
 
-Done entirely in Matlab, as it is Dr. Djurdjanovic's preferance. 
+Done entirely in Matlab. 
 
 Homework 1 is a review of probability such as cumulative density functions. 
 
